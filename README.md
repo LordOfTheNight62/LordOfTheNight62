@@ -43,6 +43,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LordOfTheNight62/LordOfTheNight62/output/snake.svg" alt="Snake animation" />
-
 ###
