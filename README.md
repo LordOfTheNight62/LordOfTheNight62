@@ -12,7 +12,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/ekin-altinkaynak/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-    <span valign="center">LinkedIn
+    <span valign="center">LinkedIn</span>
   </a>
 </div>
 
@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd5YWV2bXBmeWx3dXd1bXljdjB0dWluNmF6NTNoZHhlbWlxYTFicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rfyhcSaiRsaha/giphy.gif"  />
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd5YWV2bXBmeWx3dXd1bXljdjB0dWluNmF6NTNoZHhlbWlxYTFicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rfyhcSaiRsaha/giphy.gif"  />
 </div>
 
 ###
