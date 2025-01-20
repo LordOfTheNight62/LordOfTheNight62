@@ -9,7 +9,12 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd5YWV2bXBmeWx3dXd1bXljdjB0dWluNmF6NTNoZHhlbWlxYTFicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rfyhcSaiRsaha/giphy.gif"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/ekin-altinkaynak/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+    <span>LinkedIn
+  </a>
+</div>
 
 ###
 
@@ -37,10 +42,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd5YWV2bXBmeWx3dXd1bXljdjB0dWluNmF6NTNoZHhlbWlxYTFicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rfyhcSaiRsaha/giphy.gif"  />
 </div>
 
 ###
