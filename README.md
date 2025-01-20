@@ -39,4 +39,4 @@
 
 ###
 
-<p>LordOfTheNight62</p>
+<p align="center">LordOfTheNight62</p>
